@@ -1,16 +1,40 @@
-## Hi there 👋
+## coderivet
 
-<!--
-**coderivet/coderivet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend engineer working on long-lived Ember applications - the kind where Classic and Octane patterns coexist, migration debt has to be paid down without stopping delivery, and the bugs that matter most are often the ones the linter misses entirely.
 
-Here are some ideas to get you started:
+I write about what I actually encounter: collision patterns at architectural boundaries, decision frameworks for mixed-pattern code, safer upgrade paths, and deliberate AI collaboration when the codebase is real and the pressure is production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Writing - [dev.to/coderivet](https://dev.to/coderivet)
+
+**Navigating Ember's Mixed-Pattern Codebases** - four-part series
+
+- **What Your Linter Doesn't See: Mixed-Pattern Collisions in Ember Codebases** - Article 1 *(coming soon)*
+- Convert, Wrap, or Leave? A Decision Framework for Mixed-Pattern Ember Code - *coming*
+- Making Ember Upgrades Safer: Codemods, Deprecations, and Tracking - *coming*
+- PR Review as Risk Analysis: When AI Reads Your Ember Diffs - *coming*
+
+---
+
+### Artifacts - ember-ai-workflow *(coming soon)*
+
+Companion repository for the series. Three layers:
+
+- **Collision Catalog** - 14 named patterns with severity, boundary, detection status, and safe fix guidance
+- **Scanner** - static analysis for collision candidates. Zero dependencies. Runs on Node.js against your actual codebase.
+- **Playground** - synthetic fixtures to see the scanner output before pointing it at anything real
+
+---
+
+### On AI in this work
+
+I use AI as a structured collaborator: code review, context retention, and pattern recognition across a codebase too large to hold in working memory at once.
+
+Not as a substitute for engineering judgment. The final call is always mine.
+
+The series is partly about what that workflow actually looks like - and where the boundary is.
+
+---
+
+*Rivets hold things together at the joint where the pressure is highest.*
