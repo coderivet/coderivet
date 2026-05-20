@@ -11,15 +11,15 @@ I write about what I actually encounter: collision patterns at architectural bou
 **Navigating Ember's Mixed-Pattern Codebases** - four-part series
 
 - **What Your Linter Doesn't See: Mixed-Pattern Collisions in Ember Codebases** - Article 1 *(coming soon)*
-- Convert, Wrap, or Leave? A Decision Framework for Mixed-Pattern Ember Code - *coming*
-- Making Ember Upgrades Safer: Codemods, Deprecations, and Tracking - *coming*
-- PR Review as Risk Analysis: When AI Reads Your Ember Diffs - *coming*
+- Convert, Wrap, or Leave? A Decision Framework for Mixed-Pattern Ember Code - Article 2 *(coming soon)*
+- Making Ember Upgrades Safer: Codemods, Deprecations, and Tracking - Article 3 *(coming soon)*
+- PR Review as Risk Analysis: When AI Reads Your Ember Diffs - Article 4 *(coming soon)*
 
 ---
 
-### Artifacts - ember-ai-workflow *(coming soon)*
+### Artifacts - ember-ai-workflow
 
-Companion repository for the series. Three layers:
+Companion repository for the series *(coming soon)*. Three layers:
 
 - **Collision Catalog** - 14 named patterns with severity, boundary, detection status, and safe fix guidance
 - **Scanner** - static analysis for collision candidates. Zero dependencies. Runs on Node.js against your actual codebase.
