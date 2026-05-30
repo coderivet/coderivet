@@ -13,7 +13,7 @@ I write about what I actually encounter: collision patterns at architectural bou
 - **What Your Linter Doesn't See: Mixed-Pattern Collisions in Ember Codebases** - Article 1 *(coming soon)*
 - Convert, Wrap, or Leave? A Decision Framework for Mixed-Pattern Ember Code - Article 2 *(coming soon)*
 - Making Ember Upgrades Safer: Codemods, Deprecations, and Tracking - Article 3 *(coming soon)*
-- PR Review as Risk Analysis: When AI Reads Your Ember Diffs - Article 4 *(coming soon)*
+- How I Use AI to Resolve Complex Merge Conflicts Without Letting It Touch Git History - Article 4 *(coming soon)*
 
 ---
 
@@ -29,7 +29,8 @@ Companion repository for the series *(coming soon)*. Three layers:
 
 ### On AI in this work
 
-I use AI as a structured collaborator: code review, context retention, and pattern recognition across a codebase too large to hold in working memory at once.
+I use AI as a structured collaborator: code review, context retention, pattern recognition across a codebase too large to hold in working memory
+at once - and controlled merge conflict resolution where branches carry different migration states and both must keep working.
 
 Not as a substitute for engineering judgment. The final call is always mine.
 
