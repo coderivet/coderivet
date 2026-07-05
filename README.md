@@ -13,7 +13,7 @@ delivery keeps moving.
 
 ---
 
-## What I’m working on
+### What I’m working on
 
 Currently writing about what linters miss in mixed-pattern codebases - the
 first piece lands this summer.
