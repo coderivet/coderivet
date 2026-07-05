@@ -11,6 +11,15 @@ built on feature-sliced architecture. Different stacks, same discipline - know
 where your boundaries are, watch what crosses them, and make change safe while
 delivery keeps moving.
 
+---
+
+## What I’m working on
+
+Currently writing about what linters miss in mixed-pattern codebases - the
+first piece lands this summer.
+
+---
+
 ### On AI in this work
 
 I use AI as a structured collaborator: code review, context retention, pattern
@@ -19,10 +28,4 @@ recognition across a codebase too large to hold in working memory at once.
 Not as a substitute for engineering judgment. The final call is always mine.
 
 ---
-
-Currently writing about what linters miss in mixed-pattern codebases - the
-first piece lands this summer.
-
----
-
 *Rivets hold things together at the joint where the pressure is highest.*
